@@ -1,2 +1,2 @@
 # Minetest_default_textures_updates
-Minecraft default textures updates
+Minetest default textures updates

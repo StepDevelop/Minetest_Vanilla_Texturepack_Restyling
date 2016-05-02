@@ -1,2 +1,2 @@
 # Minetest_default_textures_updates
-Minecraft texture default updates work
+Minecraft textures default updates work

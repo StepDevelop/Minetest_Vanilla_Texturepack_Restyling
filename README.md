@@ -1,2 +1,2 @@
-# Minetest_default_textures_updates
-Minetest default textures updates
+# Minetest_default_textures_restyling
+Minetest default textures restyling

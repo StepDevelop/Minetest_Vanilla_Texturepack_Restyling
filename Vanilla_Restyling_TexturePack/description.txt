@@ -1,0 +1,4 @@
+<- Vanilla_Restyling ->
+Minetest Default Textures Restyling
+
+
